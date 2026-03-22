@@ -1,0 +1,14 @@
+{
+    "devices": [
+        "emulator-5570",
+        "emulator-5566",
+        "emulator-5568"
+    ],
+
+    "player_name": "Shiro",
+    "start_step": 1,
+
+    "step_delay": 0.5,
+    "poll_delay": 0.8,
+    "tutorial_timeout": 10000
+}
